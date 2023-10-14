@@ -23,7 +23,7 @@ _Create a release based workflow that is built on the foundations of the GitHub 
 
 ## Welcome
 
-Create a release based workflow that is built on the foundations of the [GitHub flow](https://guides.github.com/introduction/flow/). When your team uses a release-based workflow, GitHub makes it easy to collaborate with deployable iterations of your project that you can package and make available for a wider audience to download and use.
+Create a release based workflow that is built on the foundations of the [GitHub flow](https://guides.github.com/introduction/flow/). When your team uses a release-based workflow, GitHub makes it easy to collaborate with deployable iterations of your project that you can package and make available for a wider audience to downlo ad and use.
 
 GitHub releases allow your team to package and provide software to your users based on a specific point in the history of your project.
 
